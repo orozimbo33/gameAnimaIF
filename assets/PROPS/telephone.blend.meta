@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: dce00ff245a798e4099a70175ff89937
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Phone Feet Foot Foot_Original2
+    100002: Phone Feet Foot1 Foot_Original1
+    100004: Phone Feet Foot2 Foot_Original
+    100006: Phone Feet Foot_Original3
+    100008: Phone Phone1 PhoneBase
+    100010: Phone Phone1 PhoneHandset
+    100012: Phone Rotary Rotary_Dial
+    100014: Phone Rotary Rotary_Joint
+    100016: //RootNode
+    400000: Phone Feet Foot Foot_Original2
+    400002: Phone Feet Foot1 Foot_Original1
+    400004: Phone Feet Foot2 Foot_Original
+    400006: Phone Feet Foot_Original3
+    400008: Phone Phone1 PhoneBase
+    400010: Phone Phone1 PhoneHandset
+    400012: Phone Rotary Rotary_Dial
+    400014: Phone Rotary Rotary_Joint
+    400016: //RootNode
+    2100000: Mat
+    2100002: Plastic-Glossy
+    2100004: Plastic-Glossy-red
+    2100006: Glossy-Black
+    2300000: Phone Feet Foot Foot_Original2
+    2300002: Phone Feet Foot1 Foot_Original1
+    2300004: Phone Feet Foot2 Foot_Original
+    2300006: Phone Feet Foot_Original3
+    2300008: Phone Phone1 PhoneBase
+    2300010: Phone Phone1 PhoneHandset
+    2300012: Phone Rotary Rotary_Dial
+    2300014: Phone Rotary Rotary_Joint
+    3300000: Phone Feet Foot Foot_Original2
+    3300002: Phone Feet Foot1 Foot_Original1
+    3300004: Phone Feet Foot2 Foot_Original
+    3300006: Phone Feet Foot_Original3
+    3300008: Phone Phone1 PhoneBase
+    3300010: Phone Phone1 PhoneHandset
+    3300012: Phone Rotary Rotary_Dial
+    3300014: Phone Rotary Rotary_Joint
+    4300000: Phone Feet Foot Foot_Original2
+    4300002: Phone Feet Foot2 Foot_Original
+    4300004: Phone Rotary Rotary_Dial
+    4300006: Phone Feet Foot_Original3
+    4300008: Phone Phone1 PhoneHandset
+    4300010: Phone Phone1 PhoneBase
+    4300012: Phone Feet Foot1 Foot_Original1
+    4300014: Phone Rotary Rotary_Joint
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
